@@ -39,3 +39,18 @@ python car_price_predictor.py
 4. Input the car's name, manufacturing year, kilometers driven, and select the fuel type (Petrol).
 
 5. Click the "Predict Price" button to get the predicted price for the car.
+
+## Example
+
+Here's a screenshot of the Car Price Prediction GUI:
+
+![Car Price Prediction GUI](car_predict.png)
+
+## Contributions
+
+Contributions to this Car Price Prediction App are welcome! If you have ideas for improvements or would like to enhance its functionality, feel free to submit issues or pull requests.
+
+##
+**Author:** Mangesh Pangam  
+**GitHub:** [Mangesh2704](https://github.com/Mangesh2704)  
+**Email:** 202103036.mangeshpkr@student.xavier.ac.in
