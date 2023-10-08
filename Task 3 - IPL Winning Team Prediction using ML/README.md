@@ -1,4 +1,4 @@
-# IPL Winning Team Prediction App
+# IPL Winning Team Prediction App using Machine Learning
 
 ## Overview
 
