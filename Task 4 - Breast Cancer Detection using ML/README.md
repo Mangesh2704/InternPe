@@ -48,9 +48,9 @@ The app loads a machine learning model (Random Forest Classifier) that was train
 
 ## Example
 
-Here's a screenshot of the Breast Cancer Prediction GUI:
+Here's a screenshot of the Breast Cancer Detection GUI:
 
-![Breast Cancer Prediction GUI](cancer_predict.png)
+![Breast Cancer Detecction GUI](cancer_detect.png)
 
 ## Contributions
 
