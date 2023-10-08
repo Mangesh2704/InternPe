@@ -1,4 +1,4 @@
-# Breast Cancer Detection App
+# Breast Cancer Detection App using Machine Learning
 
 ## Overview
 
@@ -46,9 +46,19 @@ The app loads a machine learning model (Random Forest Classifier) that was train
 
 - **scikit-learn:** A machine learning library for Python, used for preprocessing and making predictions.
 
+## Example
+
+Here's a screenshot of the Breast Cancer Prediction GUI:
+
+![Breast Cancer Prediction GUI](cancer_predict.png)
+
 ## Contributions
 
 Contributions to this Breast Cancer Detection App are welcome! If you have ideas for improvements or would like to enhance its functionality, feel free to submit issues or pull requests.
 
+##
+**Author:** Mangesh Pangam  
+**GitHub:** [Mangesh2704](https://github.com/Mangesh2704)  
+**Email:** 202103036.mangeshpkr@student.xavier.ac.in
 
 Thank you for using the Breast Cancer Detection App. Stay vigilant about breast health! 🎗️
