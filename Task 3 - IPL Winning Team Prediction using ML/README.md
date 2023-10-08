@@ -48,6 +48,15 @@ The app loads historical IPL match data from the 'matches.csv' dataset and team 
 
 Contributions to this IPL Team Prediction App are welcome! If you have ideas for improvements or would like to enhance its functionality, feel free to submit issues or pull requests.
 
-## 
+## Example
+
+Here's a screenshot of the IPL Winning Team Prediction GUI:
+
+![IPL Winning Team Prediction GUI](ipl_predict.png)
+
+##
+**Author:** Mangesh Pangam  
+**GitHub:** [Mangesh2704](https://github.com/Mangesh2704)  
+**Email:** 202103036.mangeshpkr@student.xavier.ac.in
 
 Thank you for using the IPL Team Prediction App. Enjoy predicting IPL match winners! 🏏
