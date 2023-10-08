@@ -44,15 +44,15 @@ The app loads historical IPL match data from the 'matches.csv' dataset and team 
 
 - **pandas:** A data manipulation library for Python.
 
-## Contributions
-
-Contributions to this IPL Team Prediction App are welcome! If you have ideas for improvements or would like to enhance its functionality, feel free to submit issues or pull requests.
-
 ## Example
 
 Here's a screenshot of the IPL Winning Team Prediction GUI:
 
 ![IPL Winning Team Prediction GUI](ipl_predict.png)
+
+## Contributions
+
+Contributions to this IPL Team Prediction App are welcome! If you have ideas for improvements or would like to enhance its functionality, feel free to submit issues or pull requests.
 
 ##
 **Author:** Mangesh Pangam  
